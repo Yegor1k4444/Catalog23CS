@@ -1,0 +1,11 @@
+.text-red{
+    color: red;
+}
+.text-big{
+   font-size: 40px;
+}
+.element-bordered{
+    border-style: solid;
+    border-width: 3px;
+    border-color: yellow;
+}
